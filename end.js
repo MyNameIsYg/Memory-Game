@@ -17,7 +17,7 @@ function openHtml3() {
 document.getElementById("poi").innerHTML = localStorage.po + " points";
 
 function replay() {
-    location.href = "home.html";
+    location.href = "index.html";
 }
 
 function next() {
@@ -30,7 +30,7 @@ function next() {
             location.href = "page4.html";
         } else {
             alert("You have completed all the steps and you are returned to the main page")
-            location.href = "home.html";
+            location.href = "index.html";
         }
     }
 }

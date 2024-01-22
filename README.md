@@ -46,3 +46,6 @@ Follow these steps to play the Memory Game:
     Flip cards and match pairs to complete the game.
 
 ### Enjoy playing the Memory Game and have fun improving your memory skills!
+
+![image](https://github.com/MyNameIsYg/Memory-Game/assets/117977974/f3398305-ebe8-41b0-9544-ba300de45e07)
+

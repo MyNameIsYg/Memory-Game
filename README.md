@@ -49,3 +49,6 @@ Follow these steps to play the Memory Game:
 
 ![image](https://github.com/MyNameIsYg/Memory-Game/assets/117977974/f3398305-ebe8-41b0-9544-ba300de45e07)
 
+### Live Demo
+The project is deployed and can be accessed live at (https://memory-game-mauve-gamma.vercel.app)[https://memory-game-mauve-gamma.vercel.app]
+
